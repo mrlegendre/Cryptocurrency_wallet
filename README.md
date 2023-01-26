@@ -2,8 +2,8 @@
 
 ![](/Images/19-4-challenge-image.png)
 
-Module 19 Homework - In this Challenge, the completed code enables customers to send cryptocurrency payments directly to fintech professionals via a platform called KryptoJobs2Go. 
-
+In this Challenge, the completed code in python "krypto_jobs.py" enables customers to send cryptocurrency payments directly to fintech professionals via a platform called KryptoJobs2Go. 
+The Front End is built using streamlit with Ganache as the ethereum blockchain wallet using Web3 libraries.
 
 I only selected one of the FinTech professionals for this test which was Lane, and sent 2 transactions of 7.1 ETH and 27.16 ETH, as can be seen below.
 
